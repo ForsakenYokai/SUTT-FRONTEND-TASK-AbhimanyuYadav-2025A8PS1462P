@@ -9,3 +9,6 @@ You can view the live website here: https://forsakenyokai.github.io/SUTT-FRONTEN
 - **root**: Contains the main `index.html` and `style.css` for the live site.
 - **Assets/**: Contains all images and fonts used in the project.
 - **docs/**: Includes my personal project notes and screenshots of the website running on my local machine for reference.
+
+-
+- **P.S.** Try clicking the buttons... you might find a fun surprise.
